@@ -1,0 +1,19 @@
+* {
+  font-family: "Aboreto", cursive;
+}
+
+/* .warning {
+  color: #92817a;
+} */
+.warning {
+  color: #a65340;
+}
+
+.danger {
+  color: #abc798;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif, cursive;
+}
