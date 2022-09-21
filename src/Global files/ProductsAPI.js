@@ -1,2 +1,2 @@
-export const ProductAPI = "https://food-order-narenthar.herokuapp.com";
+export const ProductAPI = "https://food--app-backend.herokuapp.com/";
 // http://localhost:5000
